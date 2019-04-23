@@ -22,7 +22,7 @@ if (!isMac) {
 	var paths = {
 		"ConnectSDK_Framework": "https://github.com/uest555/Connect-SDK-Cordova-Plugin/zip/ConnectSDK.framework.zip",
 		"ConnectSDK_Version": "1.6.0",
-		"FlingSDK_URL": "https://github.com/uest555/Connect-SDK-Cordova-Plugin/zip/AmazonFling-SDK.zip",
+		"FlingSDK_URL": "https://s3-us-west-1.amazonaws.com/amazon-fling/AmazonFling-SDK.zip",
 		"AmazonFling_Framework": "./csdk_tmp/ios-sdk/frameworks/AmazonFling.framework",
 		"Bolts_Framework": "./csdk_tmp/ios-sdk/frameworks/third_party_framework/Bolts.framework",
 		"GoogleCastSDK_URL": "https://github.com/uest555/Connect-SDK-Cordova-Plugin/zip/GoogleCastSDK-2.7.1-Release-ios-default.zip",
